@@ -1,0 +1,35 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* to change */
+img {
+    width: 30%;
+    border: solid green 2px;
+}
+h1 {
+    border: solid red 2px;
+}
+#navContainer {
+    border: solid orange 3px;
+}
+nav {
+    border: solid green 2px;
+}
+a {
+    border: black solid 2px;
+}
+#main {
+    border: solid 4px rgb(26, 192, 32);
+}
+.textContent {
+    border: solid 3px salmon;
+}
+#mainImage{
+    border: solid purple 2px;
+}
+#cardContainer {
+    border: solid pink 3px;
+}
+.card {
+    border: solid blue 3px;
+}
